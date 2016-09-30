@@ -5,6 +5,7 @@
   "main": "index.js",
   "author": "Robert Klep <robert@klep.name>",
   "license": "MIT",
+  "repository" : "robertklep/node-kaku-old",
   "dependencies": {
     "rpio": "^0.9.12"
   }
